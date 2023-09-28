@@ -1,7 +1,11 @@
 <template>
+  <h1>New England Chess Association</h1>
   <nav>
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link :to="{name: 'GrandPrix'}">Grand Prix</router-link> |
+    <router-link :to="{name: 'Team'}">Team</router-link> |
+    <router-link :to="{name: 'Tournaments'}">Upcoming Tournaments</router-link> |
+    <router-link :to="{name: 'About'}">About</router-link> 
   </nav>
   <router-view/>
 </template>
@@ -17,14 +21,21 @@
 
 nav {
   padding: 30px;
+  padding-top: 10px;
+  font-size: large;
 }
 
 nav a {
   font-weight: bold;
   color: #2c3e50;
+  font-size: large;
+  text-decoration: none;
+  padding: 4px;
+  border-radius: 4px;
 }
 
 nav a.router-link-exact-active {
-  color: #42b983;
+  color: red;
+  border: 1px solid black;
 }
 </style>
