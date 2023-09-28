@@ -4,8 +4,7 @@
     <router-link to="/">Home</router-link> |
     <router-link :to="{name: 'GrandPrix'}">Grand Prix</router-link> |
     <router-link :to="{name: 'Team'}">Team</router-link> |
-    <router-link :to="{name: 'Tournaments'}">Upcoming Tournaments</router-link> |
-    <router-link :to="{name: 'About'}">About</router-link> 
+    <router-link :to="{name: 'Tournaments'}">Upcoming Tournaments</router-link>
   </nav>
   <router-view/>
 </template>
