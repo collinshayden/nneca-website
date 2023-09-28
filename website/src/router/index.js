@@ -24,7 +24,8 @@ const routes = [
   {
     path: '/tournaments',
     name: 'Tournaments',
-    component: Tournaments
+    component: Tournaments,
+    props: true,
   },
   // catchall 404
   {
