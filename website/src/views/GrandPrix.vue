@@ -4,13 +4,14 @@
         <h2>Motivation</h2>
         <p>
         The primary goal of the New England Grand Prix is to encourage player to participate in more events, reward consistency, and discourage
-        early withdrawls from tournaments. It also encourages the creation of more tournaments, and hopefully the overall turnout at all events. 
-        The rules of this GP are based on the North-West Grand Prix. 
+        early withdrawls from tournaments. We are also hoping that this Grand Prix will encourage directors to host more tournaments, 
+        and increase both the number of tournaments in New England as well as the turnout for these events.
         </p>
         <p>
             All events that fulfill the eligibility requirements listed below are welcome and encouraged to participate in the New England Grand Prix. 
             If you would like your event to be part of the New England Grand Prix, please contact Joseph Truelson at josephtruelson@gmail.com. 
         </p>
+        <p>The rules of this Grand Prix are based on the <a href="https://nwchess.com/gp/gp_rules.htm" target="_blank">North-West Grand Prix rules</a>. </p>
         <h2>Rules</h2>
         <ol type="1">
             <li>Event Eligibility</li>
@@ -94,7 +95,7 @@
 
             </ol>
         </ol>
-
+        <p>Rules last updated by Joseph Truelson on 2023/8/20</p>
         
     </div>
      
