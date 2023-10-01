@@ -20,7 +20,7 @@
                     <li>The tournament will be USCF Regular rated.</li>
                     <li>The event is a Swiss System, paired strictly team vs. team. Board 1 of Team A plays Board 1 of Team B, through board four. 
                         (See Rule 2C, 2G for allowable substitutions using alternates.)</li>
-                    <li>For pairings, the TD/Arbiter uses each team’s average rating as described in Rule 2B. Each team’s average rating is used for Wall Chart ranking and class-prize eligibility</li>
+                    <li>For pairings, the TD/Arbiter uses each team’s average rating as described in Rule 2B. Each team’s average rating is used for Wall Chart ranking and class-prize eligibility.    </li>
                     <li>A team gets one match point if the combined scores of the four players in a round is 2.5 points or more, one-half match point if the combined score is exactly 2.0, and zero match
                         points if the combined score is 1.5 or less. Teams are grouped by their match points and
                         then ranked within the group by their average team ratings. Byes, defaults, lateness, and so
@@ -38,7 +38,7 @@
                 <li>Entry fees and Registration</li>
                 <ol type="a">
                     <li>The advance entry fee for a team will be determined by the organizer. The late entry fee (or
-                        on-site/door entry fee) shall not be more than 25% above the advance entry fee</li>
+                        on-site/door entry fee) shall not be more than 25% above the advance entry fee.</li>
                     <li>The deadline for advance entries should be two to three weeks before the event (possibly to
                         coincide with the date by which hotel reservations should be made).</li>
                     <li>Late entry will be open until 1 hour before the start of Round 1. Any entries after this time
@@ -92,7 +92,7 @@
                     period without the approval of the Chief TD/ Arbiter.</li>
                 <li>If, during a round, players were placed out of order due to the TD’s error, then the
                     proper order will be re-established for the next round. When this occurs the previous
-                    results will stand for the team and for individual games</li>
+                    results will stand for the team and for individual games.</li>
                 <li>If, during a round, players were placed or played out of order due to an error by the
                     team, then the team may face disciplinary actions as determined by the Chief TD /
                     Arbiter up to and including forfeiture of one or more board results and disqualification
@@ -105,20 +105,28 @@
                 <li>No electronic devices shall be in the possession of a player, regardless of the player’s
                     location, while that player’s game is in progress. </li>
                 <li>Prohibited devices include, but are not limited to, cell or smart phones, tablets,
-                    computers, and Apple or Android watches</li>
+                    computers, and Apple or Android watches.</li>
                 <li>Violation of these electronic device rules by a player or member of their team may
                     result in the immediate forfeiture of game(s), eviction from the tournament, and/or
                     banishment from the tournament playing area.</li>
             </ol>
             <li>Prizes</li>
             <ol type="A">
-                <li>Team prizes will be distributed based on match points, and individual prizes will be distributed on board points. If multiple teams/players tie for the same prize category, 
+                <li>Determination & Eligibility</li>
+                <ol type="a">
+                    <li>Team prizes will be distributed based on match points, and individual prizes will be distributed on board points. If multiple teams/players tie for the same prize category, 
                     the prize(s) will be summed and split as is dictated in the US Chess Rules.
-                </li>
-                <li>The top finishing team overall will receive a prize in proportion to 25% of the prize fund.</li>
-                <li>The second overall team will receive a prize in proportion to 20% of the prize fund</li>
-                <li>The top team with an average team rating under 1600 will receive a prize in proportion to 15% of the prize fund.</li>
-                <li>The highest scoring player on each board number will recieve a prize in proportion to 10% of the prize fund.</li>
+                    </li>
+                    <li>To be eligible for prizes, 3/4 of a team's lineup in each round must be residents of New England. Determination of residence will be taken from the US Chess website,
+                        unless other information is provided to the administrator.</li>
+                </ol>
+                <li>Prize Categories</li>
+                <ol type="a">
+                    <li>The top finishing team overall will receive a prize in proportion to 25% of the prize fund.</li>
+                    <li>The second overall team will receive a prize in proportion to 20% of the prize fund.</li>
+                    <li>The top team with an average team rating under 1600 will receive a prize in proportion to 15% of the prize fund.</li>
+                    <li>The highest scoring player on each board number will recieve a prize in proportion to 10% of the prize fund.</li>
+                </ol>
             </ol>
            </ol>
         </p>

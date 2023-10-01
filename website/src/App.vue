@@ -6,7 +6,8 @@
     <router-link :to="{ name: 'Team' }">Team Championship</router-link> |
     <router-link :to="{ name: 'Tournaments' }"
       >Upcoming Tournaments</router-link
-    >
+    > |
+    <router-link :to="{ name: 'EmailForm' }">Form</router-link> 
   </nav>
   <router-view />
 </template>

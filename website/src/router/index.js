@@ -3,6 +3,7 @@ import Home from '../views/Home.vue'
 import GrandPrix from '../views/GrandPrix.vue'
 import Team from '../views/Team.vue'
 import Tournaments from '../views/Tournaments.vue'
+import EmailForm from '../views/EmailForm.vue'
 import NotFound from '../views/NotFound.vue'
 
 const routes = [
@@ -26,6 +27,11 @@ const routes = [
     name: 'Tournaments',
     component: Tournaments,
     props: true,
+  },
+  {
+    path: '/form',
+    name: 'EmailForm',
+    component: EmailForm,
   },
   // catchall 404
   {
