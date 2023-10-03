@@ -9,7 +9,7 @@
       scholastic tournaments usually have a team category, however it is not a
       purely team oriented event. Our goal is to popularize team play within New
       England, as it is a very fun and entertaining format to play chess.
-      Playing on a team encourages fighting for every point possible, and often
+      Playing on a team also encourages fighting for every point possible, and often
       results in very exciting rounds.
     </p>
     <p>
