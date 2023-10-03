@@ -27,7 +27,7 @@ import tournament
   <div id="footer">
     <p>
       If you would like your tournament featured on this page, please email the
-      details to hayden.collins@uvm.edu
+      details to hayden.collins@uvm.edu.
     </p>
   </div>
 </template>
