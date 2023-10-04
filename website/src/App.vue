@@ -7,7 +7,7 @@
     <router-link :to="{ name: 'Tournaments' }"
       >Upcoming Tournaments</router-link
     > |
-    <router-link :to="{ name: 'EmailForm' }">Form</router-link>
+    <router-link :to="{ name: 'EmailForm' }">Form</router-link> 
   </nav>
   <router-view />
 </template>
@@ -18,7 +18,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #070a0d;
 }
 
 nav {
@@ -29,7 +29,7 @@ nav {
 
 nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: #0f76dd;
   font-size: large;
   text-decoration: none;
   padding: 4px;
@@ -37,7 +37,11 @@ nav a {
 }
 
 nav a.router-link-exact-active {
-  color: red;
+  color: #060303;
   border: 1px solid black;
+}
+
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 </style>
