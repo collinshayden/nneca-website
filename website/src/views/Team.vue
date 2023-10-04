@@ -251,4 +251,10 @@
 export default {};
 </script>
 
-<style></style>
+<style>
+  @media only screen and (max-width:700px) {
+    .body {
+      width: 90%;
+    }
+  }
+</style>

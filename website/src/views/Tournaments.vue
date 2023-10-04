@@ -26,10 +26,11 @@ import tournament
   </div>
   <div id="footer">
     <p>
-      If you would like your tournament featured on this page, please email the
-      details to hayden.collins@uvm.edu.
-    </p>
+    If you would like your tournament featured on this page, please email the
+    details to hayden.collins@uvm.edu.
+  </p>
   </div>
+  
 </template>
 
 <script>
@@ -38,14 +39,21 @@ export default {
   components: { Tournament },
 };
 </script>
-
+  
 <style>
 #footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 50px;
-  margin: auto;
-  text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-top: 5px;
+    margin: auto;
+    text-align: center;
+  }
+@media only screen and (max-width:600px) {
+  #footer {
+    position: relative;
+    
+  }
 }
+
 </style>
