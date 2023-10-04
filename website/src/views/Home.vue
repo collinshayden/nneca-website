@@ -34,9 +34,15 @@ export default {
 <style>
 .body {
   width: 60%;
+  font-size: large;
   padding: 10px;
-  border: 5px solid grey;
+  /* border: 5px solid grey; */
   margin: auto;
   text-align: left;
+}
+
+html {
+  /* b0cee8 */
+  background-color: #b0cee8;
 }
 </style>
