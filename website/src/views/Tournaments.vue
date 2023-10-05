@@ -1,7 +1,7 @@
 import tournament
 
 <template>
-  <h1>Upcoming Tournaments</h1>
+  <h2 class="title">Upcoming Tournaments</h2>
   <div>
     <Tournament
       title="1st UVM Fall Open - October 14/15"
@@ -23,6 +23,11 @@ import tournament
       format="4SS G60+30, Championship (1700+)/U1825/U1425, EF $50"
       link="https://new.uschess.org/2023-vermont-open"
     />
+    <Tournament
+      title="1st RAR Open - December 16"
+      format="4SS G55d5, Premier (1600+)/U2025/U1225, EF $50/$35/$30"
+      link="https://new.uschess.org/1st-rar-open"
+    />
   </div>
   <div id="footer">
     <p>
@@ -39,21 +44,9 @@ export default {
   components: { Tournament },
 };
 </script>
-  
-<style>
-#footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding-top: 5px;
-    margin: auto;
-    text-align: center;
-  }
-@media only screen and (max-width:600px) {
-  #footer {
-    position: relative;
-    
-  }
-}
 
+<style>
+  .title {
+    font-size: 1.6em;
+  }
 </style>
