@@ -1,7 +1,7 @@
 <template>
-  <h1>New England Grand Prix</h1>
+  <h2>New England Grand Prix</h2>
   <div class="body">
-    <h2>Motivation</h2>
+    <h3>Motivation</h3>
     <p>
       The primary goal of the New England Grand Prix is to encourage player to
       participate in more events, reward consistency, and discourage early
@@ -21,7 +21,7 @@
         >North-West Grand Prix rules</a
       >.
     </p>
-    <h2>Rules</h2>
+    <h3>Rules</h3>
     <ol type="1">
       <li>Event Eligibility</li>
       <ol type="A">
