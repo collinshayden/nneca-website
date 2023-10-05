@@ -21,6 +21,15 @@
         >North-West Grand Prix rules</a
       >.
     </p>
+    <h3>2024 Grand Prix Events</h3>
+    <div class="events">
+      <Tournament
+      title="3rd UVM Spring Open - February 3/4"
+      format="4SS G80+10, Open/U1400, EF $45/$30, Prizes $500"
+      link="https://new.uschess.org/3rd-uvm-spring-open"
+    />
+    </div>
+    
     <h3>Rules</h3>
     <ol type="1">
       <li>Event Eligibility</li>
@@ -230,10 +239,17 @@
 </template>
 
 <script>
-export default {};
+import Tournament from "./Tournament.vue";
+export default {
+  components: { Tournament }
+};
 </script>
 
 <style>
+.events {
+  margin: auto;
+  text-align: center;
+}
 @media only screen and (max-width:700px) {
     .body {
       width: 90%;

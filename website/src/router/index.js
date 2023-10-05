@@ -15,7 +15,8 @@ const routes = [
   {
     path: '/grandprix',
     name: 'GrandPrix',
-    component: GrandPrix
+    component: GrandPrix,
+    props: true,
   },
   {
     path: '/team',
