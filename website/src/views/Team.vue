@@ -1,7 +1,7 @@
 <template>
-  <h1>New England Amateur Team Championship</h1>
+  <h2>New England Amateur Team Championship</h2>
   <div class="body">
-    <h2>Motivation</h2>
+    <h3>Motivation</h3>
     <p>
       The New England Amateur Team Championship will be an annual 4 player team
       event following the format of the US Amateur Team tournaments. Currently
@@ -20,7 +20,7 @@
         >Pan-American Intercollegiate Chess Team Championships rules</a
       >.
     </p>
-    <h2>Rules</h2>
+    <h3>Rules</h3>
     <ol>
       <li>Format & Tournament Rules</li>
       <ol type="A">

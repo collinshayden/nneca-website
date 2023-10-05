@@ -12,4 +12,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+  .details {
+    padding-bottom: 1em;
+  }
+</style>
