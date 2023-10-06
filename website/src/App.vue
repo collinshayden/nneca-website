@@ -120,19 +120,7 @@ img {
     display: none;
   }
   .logo {
-    scale: 1;
-    top: 8%;
-    left: 6%;
+    scale: 0;
   }
-}
-@media only screen and (max-width: 675px){
-  .logo {
-    left: 2%;
-  }
-}
-@media only screen and (max-width: 615px){
-.logo {
-  scale: 0;
-}
 }
 </style>
