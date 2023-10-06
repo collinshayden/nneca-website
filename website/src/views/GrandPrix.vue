@@ -36,18 +36,17 @@
       <ol type="A">
         <li>
           Events must be advertised as Grand Prix (GP) events on the New England
-          Grand Prix website (?) and on US Chess TLA (Tournament Life
-          Announcement) online (this can be done for free for US Chess
-          Affiliates) at least 30 days prior to the start date of the event. A
-          link to the Grand Prix website (?) must be included in the
-          description.
+          Grand Prix website and on US Chess TLA (Tournament Life Announcement)
+          online (this can be done for free for US Chess Affiliates) at least 30
+          days prior to the start date of the event. A link to the Grand Prix
+          website must be included in the description.
         </li>
         <li>Events must have sections available for all players.</li>
         <ol type="a">
           <li>
             Events limited to masters, amateurs, seniors, juniors, women, club
             members, residents of specific geographical areas, etc., cannot be
-            considered GP events
+            considered GP events.
           </li>
         </ol>
         <li>
@@ -60,7 +59,7 @@
             Players just used as “fillers” for a single round are not counted,
             nor will they receive GP points.
           </li>
-          <li>Players who never start the event will not be counted</li>
+          <li>Players who never start the event will not be counted.</li>
           <li>
             All players who actually participate in the event are counted, even
             those from outside New England.
@@ -189,7 +188,7 @@
         </ol>
         <li>
           Multipliers will be applied to events with guaranteed prize funds
-          above a set threshold
+          above a set threshold.
         </li>
         <ol type="a">
           <li>The current multiplier levels are as follows:</li>
@@ -234,7 +233,7 @@
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Joseph Truelson on 2023/8/20</p>
+    <p>Rules last updated by Joseph Truelson on 2023/8/20.</p>
   </div>
 </template>
 
