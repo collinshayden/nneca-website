@@ -6,7 +6,7 @@
         <label for="name">Full Name:</label><br />
         <input type="text" id="name" name="name" required /><br />
         <label for="email">Email:</label><br />
-        <input type="text" id="email" name="email" required /><br />
+        <input type="email" id="email" name="email" required /><br />
         <p>
           The following questions are optional, but will help us get to know our
           demographic better.
