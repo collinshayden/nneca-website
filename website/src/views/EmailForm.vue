@@ -64,7 +64,7 @@ export default {
 
 <style scoped>
 label {
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 input {
   width: 20%;
@@ -79,6 +79,11 @@ textarea {
   border: 2px solid gray;
 }
 p {
-  font-size: 1.4em;
+  font-size: 1.3em;
+}
+#submit {
+    width: 8%;
+    height: 2em;
+    font-size: 1em;
 }
 </style>
