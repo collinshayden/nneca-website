@@ -43,4 +43,7 @@ export default {
 html {
   background-color: #b0cee8;
 }
+p {
+  font-size: 1.15em;
+}
 </style>
