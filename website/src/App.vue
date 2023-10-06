@@ -1,4 +1,13 @@
 <template>
+  <div class="logo">
+    <p>New England</p>
+    <img
+      src="../src/assets/logo.png"
+      width="100"
+      height="100"
+    />
+    <p>Chess Association</p>
+  </div>
   <h1>New England Chess Association</h1>
   <nav class="nav">
     <ul>
@@ -38,13 +47,12 @@
 nav {
   padding: 30px;
   padding-top: 10px;
-  font-size: large;
 }
 
 nav a {
   font-weight: bold;
   color: #0f76dd;
-  font-size: large;
+  font-size: 1.3em;
   text-decoration: none;
   padding: 6px;
 }
@@ -59,6 +67,21 @@ h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+img {
+  display:block;
+  margin: auto;
+}
+
+.logo {
+  float: left;
+  position: absolute;
+  top: 1%;
+  left: 1.5%; 
+  text-align: center;
+  display:block;
+}
+
+
 .nav li {
   display: inline-block;
   margin: auto;
@@ -72,6 +95,11 @@ h1 {
   margin: auto;
   padding: 0;
 }
+@media only screen and (max-width: 1050px) {
+  .logo {
+    scale: 0;
+  }
+}
 @media only screen and (max-width: 750px) {
   nav {
     margin: auto;
@@ -83,7 +111,7 @@ h1 {
   }
   .nav li {
     display: block;
-    padding: 0; 
+    padding: 0;
   }
   .pipe {
     scale: 0;
@@ -91,6 +119,20 @@ h1 {
     margin: 0;
     display: none;
   }
+  .logo {
+    scale: 1;
+    top: 8%;
+    left: 6%;
+  }
+}
+@media only screen and (max-width: 675px){
+  .logo {
+    left: 2%;
+  }
+}
+@media only screen and (max-width: 615px){
+.logo {
+  scale: 0;
+}
 }
 </style>
-

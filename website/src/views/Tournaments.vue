@@ -13,8 +13,8 @@
     />
     <Tournament
       title="Bennington Fall Open - October 28"
-      format="4SS G60+5, Open/U1750/U1350, EF $25"
-      link="https://new.uschess.org/bennington-fall-open-2023, Prizes $750"
+      format="4SS G60+5, Open/U1750/U1350, EF $25, Prizes $750"
+      link="https://new.uschess.org/bennington-fall-open-2023"
     />
     <Tournament
       title="Vermont Open - November 18/19"
