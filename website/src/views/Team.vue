@@ -9,8 +9,8 @@
       scholastic tournaments usually have a team category, however it is not a
       purely team oriented event. Our goal is to popularize team play within New
       England, as it is a very fun and entertaining format to play chess.
-      Playing on a team also encourages fighting for every point possible, and often
-      results in very exciting rounds.
+      Playing on a team also encourages fighting for every point possible, and
+      often results in very exciting rounds.
     </p>
     <p>
       The rules of this event are based on the
@@ -34,7 +34,7 @@
           <li>
             The event is a Swiss System, paired strictly team vs. team. Board 1
             of Team A plays Board 1 of Team B, through board four. (See Rule 2C,
-            2G for allowable substitutions using alternates.)
+            2G for allowable substitutions using alternates).
           </li>
           <li>
             For pairings, the TD/Arbiter uses each team’s average rating as
@@ -243,7 +243,7 @@
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Hayden Collins on 2023/10/2</p>
+    <p>Rules last updated by Hayden Collins on 2023/10/2.</p>
   </div>
 </template>
 
@@ -252,9 +252,9 @@ export default {};
 </script>
 
 <style>
-  @media only screen and (max-width:700px) {
-    .body {
-      width: 90%;
-    }
+@media only screen and (max-width: 700px) {
+  .body {
+    width: 90%;
   }
+}
 </style>
