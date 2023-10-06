@@ -26,6 +26,11 @@
       format="4SS G55d5, Premier (1600+)/U2025/U1225, EF $50/$35/$30, Prizes $2500"
       link="https://new.uschess.org/1st-rar-open"
     />
+    <Tournament
+        title="3rd UVM Spring Open - February 3/4"
+        format="4SS G80+10, Open/U1400, EF $45/$30, Prizes $500"
+        link="https://new.uschess.org/3rd-uvm-spring-open"
+      />
   </div>
   <div id="footer">
     <p>
