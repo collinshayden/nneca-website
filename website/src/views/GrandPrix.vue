@@ -21,7 +21,7 @@
         >North-West Chess Grand Prix rules</a
       >.
     </p>
-    <h3>2024 Grand Prix Events</h3>
+    <h3>2024 Grand Prix Events (more to be added)</h3>
     <div class="events">
       <Tournament
         title="3rd UVM Spring Open - February 3/4"
