@@ -25,7 +25,7 @@
     <div class="events">
       <Tournament
         title="3rd UVM Spring Open - February 3/4"
-        format="4SS G80+10, Open/U1400, EF $45/$30, Prizes $500"
+        format="4SS G90+30, Open/U1400, EF $50/$35, Prizes $500"
         link="https://new.uschess.org/3rd-uvm-spring-open"
       />
     </div>
