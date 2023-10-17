@@ -112,7 +112,7 @@ img {
   }
   .nav li {
     display: block;
-    padding: 0;
+    padding: 0.15em;
   }
   .pipe {
     scale: 0;
