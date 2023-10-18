@@ -35,7 +35,6 @@
       <li>
         <router-link :to="{ name: 'EmailForm' }">Form</router-link>
       </li>
-      <li><div class="pipe">|</div></li>
     </ul>
   </nav>
   <router-view />
