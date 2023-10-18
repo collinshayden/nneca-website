@@ -27,6 +27,17 @@
         title="3rd UVM Spring Open - February 3/4"
         format="4SS G90+30, Open/U1400, EF $50/$35, Prizes $500"
         link="https://new.uschess.org/3rd-uvm-spring-open"
+        link_desc="Details here"
+      />
+      <Tournament 
+        title="1st New England Amateur Team Championship - March 23/24"
+        format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
+        link="https://newenglandchess.org/team"
+        link_desc="Details here"
+      />
+      <Tournament 
+        title="2024 VT Open - November TBD"
+        format="4SS G60+30, Championship (1700+)/U1825/U1425, EF $50, Prizes $2000"
       />
     </div>
 
