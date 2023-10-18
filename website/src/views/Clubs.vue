@@ -24,19 +24,19 @@
       info="We are located on the UVM campus in Burlington VT, and meet twice a week on Wednesdays 6:30-8:30 and Sundays 12:30-2:30 in the Mt Mansfield Room of the Davis Center."
       contact="Contact Hayden Collins via hayden.collins@uvm.edu for more details."
     />
-    <Club 
-    title="Chittenden County Chess Club"
-    desc="Meeting every Saturday morning at the South Burlington Public Library on Market Street in South Burlington  VT, we are a group of chess enthusiasts from all ages and playing abilities. 
+    <Club
+      title="Chittenden County Chess Club"
+      desc="Meeting every Saturday morning at the South Burlington Public Library on Market Street in South Burlington  VT, we are a group of chess enthusiasts from all ages and playing abilities. 
     We warmly welcome all those interested in playing and learning about chess with casual blitz from 10:30 to 11:00 and a G60/+30, USCF rated Swiss tournament game at 11:00. Blitz tournament once a month. 
     USCF membership is recommended to play a free weekly rated game, but not required. CHildren under 12 are welcome to compete but must be accompanied by a parent."
-    contact="Contact Walter Chesnut via wmc@wmchesnut.com for more details."
+      contact="Contact Walter Chesnut via wmc@wmchesnut.com for more details."
     />
     <h2>New Hampshire</h2>
-    <Club 
-    title="Weare Woodpushers"
-    desc="Rated club SS tournament play on Wednesday evenings (typically one round per week) for Weare and surrounding areas (Concord, Dunbarton, Henniker, Hopkinton, Goffstown, Hillsboro, etc.)"
-    info="Wednesday Evenings, at the Hand in Hand Senior Center, 33 N. Stark Highway, Weare.  Doors open at 6 pm, arrive by 6:30 pm for play beginning at 6:45 pm. Check in advance to confirm scheduling."
-    contact="Greg Smith via weare.woopushers.nh@gmail.com for more details."
+    <Club
+      title="Weare Woodpushers"
+      desc="Rated club SS tournament play on Wednesday evenings (typically one round per week) for Weare and surrounding areas (Concord, Dunbarton, Henniker, Hopkinton, Goffstown, Hillsboro, etc.)"
+      info="Wednesday Evenings, at the Hand in Hand Senior Center, 33 N. Stark Highway, Weare.  Doors open at 6 pm, arrive by 6:30 pm for play beginning at 6:45 pm. Check in advance to confirm scheduling."
+      contact="Greg Smith via weare.woopushers.nh@gmail.com for more details."
     />
   </div>
 </template>

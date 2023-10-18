@@ -82,10 +82,10 @@ p {
   font-size: 1.3em;
 }
 #submit {
-    width: 8%;
-    min-width: 100px;
-    height: 2em;
-    font-size: 1em;
-    background-color: white;
+  width: 8%;
+  min-width: 100px;
+  height: 2em;
+  font-size: 1em;
+  background-color: white;
 }
 </style>

@@ -13,7 +13,7 @@ export default {
 </script>
 
 <style>
-  .details {
-    padding-bottom: 1em;
-  }
+.details {
+  padding-bottom: 1em;
+}
 </style>
