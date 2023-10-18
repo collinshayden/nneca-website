@@ -86,5 +86,6 @@ p {
     min-width: 100px;
     height: 2em;
     font-size: 1em;
+    background-color: white;
 }
 </style>

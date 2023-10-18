@@ -29,6 +29,10 @@
       </li>
       <li><div class="pipe">|</div></li>
       <li>
+        <router-link :to="{ name: 'Clubs' }">Clubs</router-link>
+      </li>
+      <li><div class="pipe">|</div></li>
+      <li>
         <router-link :to="{ name: 'EmailForm' }">Form</router-link>
       </li>
     </ul>
@@ -69,7 +73,7 @@ h1 {
 }
 
 img {
-  display:block;
+  display: block;
   margin: auto;
 }
 
@@ -77,11 +81,10 @@ img {
   float: left;
   position: absolute;
   top: 1%;
-  left: 1.5%; 
+  left: 1.5%;
   text-align: center;
-  display:block;
+  display: block;
 }
-
 
 .nav li {
   display: inline-block;
@@ -112,7 +115,7 @@ img {
   }
   .nav li {
     display: block;
-    padding: 0;
+    padding: 0.15em;
   }
   .pipe {
     scale: 0;

@@ -3,6 +3,7 @@ import Home from '../views/Home.vue'
 import GrandPrix from '../views/GrandPrix.vue'
 import Team from '../views/Team.vue'
 import Tournaments from '../views/Tournaments.vue'
+import Clubs from '../views/Clubs.vue'
 import EmailForm from '../views/EmailForm.vue'
 import NotFound from '../views/NotFound.vue'
 
@@ -27,6 +28,12 @@ const routes = [
     path: '/tournaments',
     name: 'Tournaments',
     component: Tournaments,
+    props: true,
+  },
+  {
+    path: '/clubs',
+    name: 'Clubs',
+    component: Clubs,
     props: true,
   },
   {
