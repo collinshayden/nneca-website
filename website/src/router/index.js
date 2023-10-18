@@ -22,7 +22,8 @@ const routes = [
   {
     path: '/team',
     name: 'Team',
-    component: Team
+    component: Team,
+    props: true,
   },
   {
     path: '/tournaments',

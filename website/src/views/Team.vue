@@ -20,6 +20,14 @@
         >Pan-American Intercollegiate Chess Team Championships rules</a
       >.
     </p>
+    <div class="events">
+      <Tournament 
+        title="1st New England Amateur Team Championship - March 23/24"
+        format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
+        link_desc="Venue TBD"
+      />
+    </div>
+    
     <h3>Rules</h3>
     <ol>
       <li>Format & Tournament Rules</li>
@@ -248,7 +256,10 @@
 </template>
 
 <script>
-export default {};
+import Tournament from './Tournament.vue';
+export default {
+  components: {Tournament}
+  };
 </script>
 
 <style>
