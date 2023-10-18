@@ -41,7 +41,7 @@
       title="Weare Woodpushers"
       desc="Rated club SS tournament play on Wednesday evenings (typically one round per week) for Weare and surrounding areas (Concord, Dunbarton, Henniker, Hopkinton, Goffstown, Hillsboro, etc.)"
       info="Wednesday Evenings, at the Hand in Hand Senior Center, 33 N. Stark Highway, Weare.  Doors open at 6 pm, arrive by 6:30 pm for play beginning at 6:45 pm. Check in advance to confirm scheduling."
-      contact="Greg Smith via weare.woopushers.nh@gmail.com for more details."
+      contact="Contact Greg Smith via weare.woodpushers.nh@gmail.com for more details."
     />
   </div>
 </template>
@@ -64,5 +64,10 @@ export default {
   padding: 10px;
   margin: auto;
   text-align: center;
+}
+@media only screen and (max-width: 700px){
+  .clubs {
+    width: 85%;
+  }
 }
 </style>
