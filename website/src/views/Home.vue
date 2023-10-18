@@ -11,10 +11,11 @@
         both of which are new events that will be launched in 2024.
       </p>
       <p>
-      As we are located in Vermont and New Hampshire, our short-term focus will primarily be to grow chess in our local communities.
-      We are hoping that directors from the rest of New England will include their events in the Grand Prix and aid in the growth of
-      New England chess. 
-    </p>
+        As we are located in Vermont and New Hampshire, our short-term focus
+        will primarily be to grow chess in our local communities. We are hoping
+        that directors from the rest of New England will include their events in
+        the Grand Prix and aid in the growth of New England chess.
+      </p>
       <h2>Contact</h2>
       <p>
         Hayden Collins - hayden.collins@uvm.edu <br />

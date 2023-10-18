@@ -16,6 +16,11 @@
       contact Joseph Truelson at josephtruelson@gmail.com.
     </p>
     <p>
+      If you would like to sponsor the New England Grand Prix, please contact
+      Joseph Truelson. Sponsorship can be directed at a specific prize category
+      or the entire prize fund.
+    </p>
+    <p>
       The rules of this Grand Prix are based on the
       <a href="https://nwchess.com/gp/gp_rules.htm" target="_blank"
         >North-West Chess Grand Prix rules</a
@@ -29,13 +34,13 @@
         link="https://new.uschess.org/3rd-uvm-spring-open"
         link_desc="Details here"
       />
-      <Tournament 
+      <Tournament
         title="1st New England Amateur Team Championship - March 23/24"
         format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
         link="https://newenglandchess.org/team"
         link_desc="Details here"
       />
-      <Tournament 
+      <Tournament
         title="2024 VT Open - November TBD"
         format="4SS G60+30, Championship (1700+)/U1825/U1425, EF $50, Prizes $2000"
       />
