@@ -34,7 +34,7 @@
     <Club 
       title="Stowe Chess Club"
       desc="Casual play every Thursday 6:30-8pm at MC’s Penalty Box Sports Bar, 823 S Main St, Stowe VT."
-      contact="Contact Peter Schmeeckle via oldcastlerecords@yahoo.com for more details."
+      contact="Contact Peter Schmeeckle via oldcastlerecords@yahoo.com for more details. Location is temporary, check with Peter about current venue."
     />
     <h2>New Hampshire</h2>
     <Club
