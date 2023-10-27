@@ -144,14 +144,12 @@
         <li>The prize fund shall be divided into thirteen prizes</li>
         <ol type="a">
           <li>
-            First place in classes Master, Expert, A, B, C, and D-and-Below
-            excluding the highest scoring player of each state will receive 10%
-            of the resultant prize fund for each state.
+            First place in classes Master, Expert, A, B, C, and D-and-Below will
+            receive 10% of the resultant prize fund for each state.
           </li>
           <li>
             Second place in classes Master, Expert, A, B, C, and D-and-Below
-            excluding the highest scoring player of each state will receive 5%
-            of the resultant prize fund for each state.
+            will receive 5% of the resultant prize fund for each state.
           </li>
           <li>
             The player with the highest overall point total will receive 10% of
