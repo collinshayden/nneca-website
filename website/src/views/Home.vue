@@ -16,7 +16,7 @@
         that directors from the rest of New England will include their events in
         the Grand Prix and aid in the growth of New England chess.
       </p>
-      <h2>Contact</h2>
+      <h2>Contact Us</h2>
       <p>
         Hayden Collins - hayden.collins@uvm.edu <br />
         Joesph Truelson - josephtruelson@gmail.com
