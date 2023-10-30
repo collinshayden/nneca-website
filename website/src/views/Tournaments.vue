@@ -1,24 +1,6 @@
 <template>
   <h2 class="title">Upcoming Tournaments</h2>
   <div>
-    <Tournament
-      title="1st UVM Fall Open - October 14/15"
-      format="4SS G80+10, Open/U1400, EF $45/$30, Prizes $500"
-      link="https://new.uschess.org/1st-uvm-fall-open-national-chess-day"
-      link_desc="Details here"
-    />
-    <Tournament
-      title="1st Nashua Tornado - October 21"
-      format="4SS G55d5, Premier (1400+)/U1875/U1275, EF $55/$40/$30, Prizes $2700"
-      link="https://new.uschess.org/1st-nashua-tornado-0"
-      link_desc="Details here"
-    />
-    <Tournament
-      title="Bennington Fall Open - October 28"
-      format="4SS G60+5, Open/U1750/U1350, EF $25, Prizes $750"
-      link="https://new.uschess.org/bennington-fall-open-2023"
-      link_desc="Details here"
-    />
     <Tournament 
       title="UVM November Free Blitz - November 12"
       format="10SS G3+2, Open, No EF"
