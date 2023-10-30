@@ -16,7 +16,31 @@
         that directors from the rest of New England will include their events in
         the Grand Prix and aid in the growth of New England chess.
       </p>
-      <h2>Contact Us</h2>
+      <h2>Get Involved</h2>
+      <p>Want to see more chess in your area? Lets make it happen!</p>
+      <p>
+        Becoming a USCF tournament director is very easy, and can have a large
+        impact on your local chess scene. All that is required to become a club
+        level TD is filling out one form and emailing it to USCF. The form and
+        other TD info can be found
+        <a href="https://new.uschess.org/tournament-directors" target="_blank"
+          >here</a
+        >. We should have a NECA USCF affiliate coming soon, so let us know if
+        you would like to be added as a TD, which will allow you to run rated
+        events. Players make up most of the TDs around here, so create whichever
+        events you want to play in most! If you want any help or advice about
+        directing events or participating in the Grand Prix, email me at
+        hayden.collins@uvm.edu.
+      </p>
+      <p>
+        Another great way to grow your local chess community is to start your
+        own chess club. You may be surprised how many folks might attend your
+        local club. Some clubs host a rated game every week, others are simply
+        casual play. There is certainly demand for both, so I recommend doing
+        whichever you would prefer to play in. If you would like to advertise on
+        our clubs page, feel free to contact us.
+      </p>
+      <h2>Contact</h2>
       <p>
         Hayden Collins - hayden.collins@uvm.edu <br />
         Joesph Truelson - josephtruelson@gmail.com
