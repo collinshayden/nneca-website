@@ -36,6 +36,11 @@
       desc="Casual play every Thursday 6:30-8pm at MC’s Penalty Box Sports Bar, 823 S Main St, Stowe VT."
       contact="Contact Peter Schmeeckle via oldcastlerecords@yahoo.com for more details. Location is temporary, check with Peter about current venue."
     />
+    <Club 
+      title="Bennington Area Chess Club"
+      desc="Meets Sundays at various cafes in Bennington. Usually starts around 8:30."
+      contact="Contact Andrew Palmer via palmera62@hotmail.com for specific details."
+    />
     <h2>New Hampshire</h2>
     <Club
       title="Weare Woodpushers"
