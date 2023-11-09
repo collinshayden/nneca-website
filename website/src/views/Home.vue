@@ -25,7 +25,7 @@
         other TD info can be found
         <a href="https://new.uschess.org/tournament-directors" target="_blank"
           >here</a
-        >. We should have a NECA USCF affiliate coming soon, so let us know if
+        >. We now have a NECA USCF affiliate, so let us know if
         you would like to be added as a TD, which will allow you to run rated
         events. Players make up most of the TDs around here, so create whichever
         events you want to play in most! If you want any help or advice about
