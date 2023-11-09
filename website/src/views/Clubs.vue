@@ -31,15 +31,20 @@
     USCF membership is recommended to play a free weekly rated game, but not required. Children under 12 are welcome to compete but must be accompanied by a parent."
       contact="Contact Walter Chesnut via wmc@wmchesnut.com for more details."
     />
-    <Club 
+    <Club
       title="Stowe Chess Club"
       desc="Casual play every Thursday 6:30-8pm at MC’s Penalty Box Sports Bar, 823 S Main St, Stowe VT."
       contact="Contact Peter Schmeeckle via oldcastlerecords@yahoo.com for more details. Location is temporary, check with Peter about current venue."
     />
-    <Club 
+    <Club
       title="Bennington Area Chess Club"
       desc="Meets Sundays at various cafes in Bennington. Usually starts around 8:30."
       contact="Contact Andrew Palmer via palmera62@hotmail.com for specific details."
+    />
+    <Club
+      title="Putney Chess Club"
+      desc="Casual play every Thursday 5:30-7:30pm at the Putney Co-op. Club meetings resume November 16th. All ages & levels welcome."
+      contact="Contact Dan Foster via fosterbalance@gmail.com for more details."
     />
     <h2>New Hampshire</h2>
     <Club
@@ -70,7 +75,7 @@ export default {
   margin: auto;
   text-align: center;
 }
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 700px) {
   .clubs {
     width: 85%;
   }
