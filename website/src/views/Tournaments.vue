@@ -1,12 +1,6 @@
 <template>
   <h2 class="title">Upcoming Tournaments</h2>
   <div>
-    <Tournament 
-      title="UVM November Free Blitz - November 12"
-      format="10SS G3+2, Open, No EF"
-      link="https://new.uschess.org/uvm-november-free-blitz"
-      link_desc="Details here"
-    />
     <Tournament
       title="Vermont Open - November 18/19"
       format="4SS G60+30, Championship (1700+)/U1825/U1425, EF $50, Prizes $2000"
