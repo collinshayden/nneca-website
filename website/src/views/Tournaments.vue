@@ -9,7 +9,7 @@
     />
     <Tournament 
       title="Northern Vermont Scholastics - November 26"
-      format="4SS G25+5, Elementary (K-5), Middle School (6-8), HS (9-12), Adults, EF $5 advance, $10 onsite"
+      format="4SS G30+0, Elementary (K-5), Middle School (6-8), HS (9-12), Adults, EF $5 advance, $10 onsite"
       link="https://new.uschess.org/northern-vermont-scholastics"
       link_desc="Details here"
     />
