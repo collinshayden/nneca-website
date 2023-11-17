@@ -7,13 +7,13 @@
       link="https://new.uschess.org/2023-vermont-open"
       link_desc="Details here"
     />
-    <Tournament 
+    <Tournament
       title="Northern Vermont Scholastics - November 26"
       format="4SS G30+0, Elementary (K-5), Middle School (6-8), HS (9-12), Adults, EF $5 advance, $10 onsite"
       link="https://new.uschess.org/northern-vermont-scholastics"
       link_desc="Details here"
     />
-    <Tournament 
+    <Tournament
       title="Upper Valley Action - December 10"
       format="4SS G25d5, Open, EF $20, Prizes $200"
       link="https://new.uschess.org/uvchess-121023-action-g25d5"
@@ -27,9 +27,21 @@
       link_desc="Details here"
     />
     <Tournament
+      title="New England Grand Prix Inaugural Event - January 13"
+      format="4SS G55d5, Premier (1600+), U2125, U1825, U1525, U1225, EF $50/$40/$35/$30/$25, Prizes $2700"
+      link="https://onlineregistration.cc/tournaments/index.php?view=zNTizdLa&tid=m6CioQ=="
+      link_desc="Details here"
+    />
+    <Tournament
       title="3rd UVM Spring Open - February 3/4"
       format="4SS G90+30, Open/U1400, EF $50/$35, Prizes $500"
       link="https://new.uschess.org/3rd-uvm-spring-open"
+      link_desc="Details here"
+    />
+    <Tournament
+      title="Nashua Grand Prix Tornado - February 24"
+      format="4SS G55d5, Premier (1600+), U2025, U1625, U1225, EF $50/$40/$35/$30, Prizes $2400"
+      link="https://onlineregistration.cc/tournaments/index.php?view=zNTizdLa&tid=m6Ciog=="
       link_desc="Details here"
     />
     <Tournament
