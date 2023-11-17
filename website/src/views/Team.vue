@@ -109,6 +109,16 @@
         <li>
           A team is made up of four players plus up to two optional alternates.
         </li>
+        <li>The rating average of a team must not exceed 1800.</li>
+        <ol type="a">
+          <li>Official regular ratings will be used for these calculations.</li>
+          <li>
+            All lineups for a given round must fall below the 1800 average
+            rating cap. Alternates that are not playing in a given round are not
+            included in the rating average.
+          </li>
+          <li>Unrated players will be counted as having a rating of 1100.</li>
+        </ol>
         <li>
           At the start of the tournament, teams are ranked-ordered and sequenced
           according to the average rating of the four highest-rated players
@@ -251,7 +261,7 @@
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Hayden Collins on 2023/10/2.</p>
+    <p>Rules last updated by Hayden Collins on 2023/11/16.</p>
   </div>
 </template>
 
