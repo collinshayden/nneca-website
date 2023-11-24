@@ -25,12 +25,11 @@
         other TD info can be found
         <a href="https://new.uschess.org/tournament-directors" target="_blank"
           >here</a
-        >. We now have a NECA USCF affiliate, so let us know if
-        you would like to be added as a TD, which will allow you to run rated
-        events. Players make up most of the TDs around here, so create whichever
-        events you want to play in most! If you want any help or advice about
-        directing events or participating in the Grand Prix, email me at
-        hayden.collins@uvm.edu.
+        >. We now have a NECA USCF affiliate, so let us know if you would like
+        to be added as a TD, which will allow you to run rated events. Players
+        make up most of the TDs around here, so create whichever events you want
+        to play in most! If you want any help or advice about directing events
+        or participating in the Grand Prix, email me at hayden.collins@uvm.edu.
       </p>
       <p>
         Another great way to grow your local chess community is to start your
@@ -39,6 +38,14 @@
         casual play. There is certainly demand for both, so I recommend doing
         whichever you would prefer to play in. If you would like to advertise on
         our clubs page, feel free to contact us.
+      </p>
+      <h2>Source Code</h2>
+      <p>
+        This website was created by Hayden Collins using Vue.js. The source code
+        and commit history can be found on
+        <a href="https://github.com/collinshayden/neca-website" target="_blank"
+          >GitHub</a
+        >. If you're interested in creating a website of your own, feel free to clone the repository and modify it to fit your needs. If you want any help/advice, you're welcome to email me.
       </p>
       <h2>Contact</h2>
       <p>
