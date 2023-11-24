@@ -53,6 +53,12 @@
       info="Wednesday Evenings, at the Hand in Hand Senior Center, 33 N. Stark Highway, Weare.  Doors open at 6 pm, arrive by 6:30 pm for play beginning at 6:45 pm. Check in advance to confirm scheduling."
       contact="Contact Greg Smith via weare.woodpushers.nh@gmail.com for more details."
     />
+    <Club
+      title="Plymouth NH Chess Club"
+      desc="At this point we are a small informal club that does not have rated games, but if the interest and attendance are there, we can always try."
+      info="Meets at the Pease Public Library, 1 Russell Street, downstairs, from 6PM to 8PM every Tuesday."
+      contact="If you have any questions or concerns please email Doug Grant at dgrant116@gmail.com or call 603-444-6982. "
+    />
   </div>
 </template>
 
