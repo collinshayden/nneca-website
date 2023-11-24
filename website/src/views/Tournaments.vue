@@ -2,12 +2,6 @@
   <h2 class="title">Upcoming Tournaments</h2>
   <div>
     <Tournament
-      title="Vermont Open - November 18/19"
-      format="4SS G60+30, Championship (1700+)/U1825/U1425, EF $50, Prizes $2000"
-      link="https://new.uschess.org/2023-vermont-open"
-      link_desc="Details here"
-    />
-    <Tournament
       title="Northern Vermont Scholastics - November 26"
       format="4SS G30+0, Elementary (K-5), Middle School (6-8), HS (9-12), Adults, EF $5 advance, $10 onsite"
       link="https://new.uschess.org/northern-vermont-scholastics"
