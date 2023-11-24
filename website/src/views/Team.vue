@@ -141,6 +141,11 @@
           is submitted as part of the registration process and lists all primary
           players and up to 2 alternates in descending rating sequence.
         </li>
+        <ol type="a">
+          <li>
+            Two adjacent boards may not have a rating gap of over 500 points.
+          </li>
+        </ol>
         <li>Unrated players must be placed below rated players.</li>
         <li>
           A team must have a minimum of three players to compete for prizes. If
@@ -244,24 +249,54 @@
         <ol type="a">
           <li>
             The top finishing team overall will receive a prize in proportion to
-            25% of the prize fund.
+            22.5% of the prize fund.
           </li>
           <li>
-            The second overall team will receive a prize in proportion to 20% of
+            The second overall team will receive a prize in proportion to 17.5% of
             the prize fund.
           </li>
           <li>
-            The top team with an average team rating under 1600 will receive a
-            prize in proportion to 15% of the prize fund.
+            The top team with an average team rating under 1500 will receive a
+            prize in proportion to 10% of the prize fund.
+          </li>
+          <li>
+            The top mixed doubles team will recieve a prize in proportion to 10%
+            of the prize fund.
           </li>
           <li>
             The highest scoring player on each board number will recieve a prize
-            in proportion to 10% of the prize fund.
+            in proportion to 5% of the prize fund.
+          </li>
+          <li>
+            The player who performs the largest individual upset will recieve a
+            prize in proportion to 5% of the prize fund.
+          </li>
+          <ol type="i">
+            <li>
+              This will be determined by the largest rating difference between
+              two players, where the lower rated player wins the game.
+            </li>
+            <li>Unrated players are not eligible for this prize.</li>
+          </ol>
+          <li>
+            The team voted to have the best team name will receive 5% of the
+            prize fund.
+          </li>
+          <ol type="i">
+            <li>
+              All players participating in the event, including alternates, will
+              be eligible to vote. No player may vote for their own team.
+            </li>
+          </ol>
+          <li>
+            This event will be included in the 2024 New England Grand Prix. 10%
+            ($5/player) of the prize fund for this event will go towards the GP
+            prize fund, as required by the GP rules.
           </li>
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Hayden Collins on 2023/11/16.</p>
+    <p>Rules last updated by Hayden Collins on 2023/11/24.</p>
   </div>
 </template>
 
