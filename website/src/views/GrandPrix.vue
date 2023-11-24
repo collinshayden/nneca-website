@@ -52,10 +52,6 @@
         link="https://newenglandchess.org/team"
         link_desc="Details here"
       />
-      <Tournament
-        title="2024 VT Open - November TBD"
-        format="4SS G60+30, Championship (1700+)/U1825/U1425, EF $50, Prizes $2000"
-      />
     </div>
 
     <h3>Rules</h3>
