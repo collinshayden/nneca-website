@@ -1,15 +1,16 @@
 <template>
   <div class="logo">
+    <p>Northern</p>
     <p>New England</p>
     <img
       src="../src/assets/logo.png"
       width="100"
       height="100"
-      alt="New England Chess Association logo"
+      alt="Northern New England Chess Association logo"
     />
     <p>Chess Association</p>
   </div>
-  <h1>New England Chess Association</h1>
+  <h1>Northern New England Chess Association</h1>
   <nav class="nav">
     <ul>
       <li><router-link to="/">Home</router-link></li>
