@@ -3,7 +3,7 @@
     <div class="body">
       <h2>Welcome</h2>
       <p>
-        Welcome to the official website of the New England Chess Association! We
+        Welcome to the official website of the Northern New England Chess Association! We
         are a new organization, founded by Hayden Collins and NM Joseph
         Truelson, with the aim to grow and support chess activity in New
         England. This chess association will also be the governing body over the
