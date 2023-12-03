@@ -2,8 +2,8 @@
   <h2>404</h2>
   <h3>Page not found</h3>
   <p>
-    Please contact Hayden Collins, hayden.collins@uvm.edu, if there is a problem
-    with the website.
+    If there is a problem with the website, please contact Hayden Collins at
+    hayden.collins@uvm.edu
   </p>
 </template>
 
