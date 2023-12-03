@@ -1,5 +1,5 @@
 <template>
-  <h2 class="title">Local Clubs in New England</h2>
+  <h2 class="title">Local Clubs in Northern New England</h2>
   <div class="body">
     <p>
       This page is dedicated for chess clubs that are located within New
