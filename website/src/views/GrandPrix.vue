@@ -207,6 +207,7 @@
         <li>Players who complete their schedule shall receive a bonus.</li>
         <ol type="a">
           <li>Players who withdraw or forfeit will not receive the bonus.</li>
+          <li>This bonus will be 2 points added to the player's final score, before accounting for the event multiplier.</li>
         </ol>
         <li>
           Multipliers will be applied to events with guaranteed prize funds
@@ -255,7 +256,7 @@
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Hayden Collins on 2023/11/16.</p>
+    <p>Rules last updated by Hayden Collins on 2023/12/10.</p>
   </div>
 </template>
 
