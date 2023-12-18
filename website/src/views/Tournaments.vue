@@ -1,19 +1,6 @@
 <template>
-  <h2 class="title">Upcoming Tournaments</h2>
+  <h2 class="title">Upcoming Grand Prix Tournaments</h2>
   <div>
-    <Tournament
-      title="Upper Valley Action - December 10"
-      format="4SS G25d5, Open, EF $20, Prizes $200"
-      link="https://new.uschess.org/uvchess-121023-action-g25d5"
-      link_desc="Details here"
-    />
-
-    <Tournament
-      title="1st RAR Open - December 16"
-      format="4SS G55d5, Premier (1600+)/U2025/U1225, EF $50/$35/$30, Prizes $2500"
-      link="https://new.uschess.org/1st-rar-open"
-      link_desc="Details here"
-    />
     <Tournament
       title="New England Grand Prix Inaugural Event - January 13"
       format="4SS G55d5, Premier (1600+), U2125, U1825, U1525, U1225, EF $50/$40/$35/$30/$25, Prizes $2700"
