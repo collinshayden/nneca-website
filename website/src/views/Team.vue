@@ -22,7 +22,7 @@
     </p>
     <div class="events">
       <Tournament
-        title="1st New England Amateur Team Championship - March 23/24"
+        title="1st New England Amateur Team Championship - Date TBD (Moved back from March)"
         format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
         link_desc="Venue TBD"
       />
