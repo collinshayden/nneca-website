@@ -21,7 +21,7 @@
       title="University of Vermont Chess Club"
       desc="The UVM Chess Club is student led organization dedicated to playing, studying, and teaching chess. 
       We provide a relaxed space in which chess enthusiasts of all levels are welcome to come and enjoy the beautiful sport of chess."
-      info="We are located on the UVM campus in Burlington VT, and meet twice a week on Wednesdays 6:30-8:30 and Sundays 12:30-2:30 in the Mt Mansfield Room of the Davis Center."
+      info="We are located on the UVM campus in Burlington VT, and meet twice a week on Monday/Friday 5-7 in Ifshin 240."
       contact="Contact Hayden Collins via hayden.collins@uvm.edu for more details."
     />
     <Club
