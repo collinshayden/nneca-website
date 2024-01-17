@@ -1,5 +1,5 @@
 <template>
-  <h2 class="title">Upcoming Grand Prix Tournaments</h2>
+  <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament
       title="New England Grand Prix Inaugural Event - January 13"
@@ -20,10 +20,19 @@
       link_desc="Details here"
     />
     <Tournament
-      title="1st New England Amateur Team Championship - March 23/24"
+      title="1st New England Amateur Team Championship - April 14/15"
       format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
       link="https://newenglandchess.org/team"
       link_desc="Details here"
+    />
+  </div>
+  <h2 class="title">Upcoming Non-Grand Prix Events</h2>
+  <div>
+    <Tournament 
+    title="March Chess Madness - March 2"
+    format="4SS G30+0 Grades 1-6 (Scholastic Only), Free Entry, Bennington VT"
+    link="https://www.chessonthehill.com/marchmadness"
+    link_desc="Details here"
     />
   </div>
   <div id="footer">
