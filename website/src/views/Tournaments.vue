@@ -2,12 +2,6 @@
   <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament
-      title="New England Grand Prix Inaugural Event - January 13"
-      format="4SS G55d5, Premier (1600+), U2125, U1825, U1525, U1225, EF $50/$40/$35/$30/$25, Prizes $2700"
-      link="https://onlineregistration.cc/tournaments/index.php?view=zNTizdLa&tid=m6CioQ=="
-      link_desc="Details here"
-    />
-    <Tournament
       title="3rd UVM Spring Open - February 3/4"
       format="4SS G90+30, Open/U1400, EF $50/$35, Prizes $500"
       link="https://new.uschess.org/3rd-uvm-spring-open"
@@ -17,6 +11,12 @@
       title="Nashua Grand Prix Tornado - February 17"
       format="4SS G55d5, Premier (1600+), U2025, U1625, U1225, EF $50/$40/$35/$30, Prizes $2400"
       link="https://onlineregistration.cc/tournaments/index.php?view=zNTizdLa&tid=m6Ciog=="
+      link_desc="Details here"
+    />
+    <Tournament
+      title="1st Penguin Festival - April 6/7"
+      format="5SS 3 rds G60+30 + 2 rds 90+30, Emperor (1600+), Magellanic (U1925), Little Blue (U1325), EF $120/$80/$60, Prizes $4100"
+      link="https://new.uschess.org/1st-penguin-festival"
       link_desc="Details here"
     />
     <Tournament
