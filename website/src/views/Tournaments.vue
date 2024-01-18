@@ -20,7 +20,7 @@
       link_desc="Details here"
     />
     <Tournament
-      title="1st New England Amateur Team Championship - April 14/15"
+      title="1st New England Amateur Team Championship - April 13/14"
       format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
       link="https://newenglandchess.org/team"
       link_desc="Details here"

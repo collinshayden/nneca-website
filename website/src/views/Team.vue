@@ -22,7 +22,7 @@
     </p>
     <div class="events">
       <Tournament
-        title="1st New England Amateur Team Championship - April 14/15 - Nashua NH"
+        title="1st New England Amateur Team Championship - April 13/14 - Nashua NH"
         format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
       />
     </div>
