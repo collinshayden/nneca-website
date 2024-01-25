@@ -34,7 +34,7 @@
       </li>
       <li><div class="pipe">|</div></li>
       <li>
-        <router-link :to="{ name: 'EmailForm' }">Form</router-link>
+        <router-link :to="{ name: 'EmailForm' }">Mailing List</router-link>
       </li>
     </ul>
   </nav>
