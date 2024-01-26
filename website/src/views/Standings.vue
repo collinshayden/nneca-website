@@ -61,14 +61,14 @@ export default {
 
 <style scoped>
 .table-container {
-  width: 60%; 
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%; 
 }
 
 .table-container table {
-  width: 100%; 
+  width: 60%; 
   border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .table-container td {
@@ -90,5 +90,14 @@ p {
   text-align: left;
   font-size: 1.3em;
   text-indent: 2em;
+}
+
+@media (max-width: 600px) {
+p {
+  width: 75%
+}
+ .table-container td {
+    padding: 5px;
+ }
 }
 </style>
