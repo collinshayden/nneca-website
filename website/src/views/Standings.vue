@@ -106,7 +106,7 @@ p {
   }
   .table-container td {
     padding: 2px;
-    font-size: 0.7em;
+    font-size: 0.8em;
   }
 }
 </style>
