@@ -16,15 +16,6 @@
       contact Joseph Truelson at josephtruelson@gmail.com.
     </p>
     <p>
-      Current standings of the New England Grand Prix can be found on
-      <a
-        href="https://docs.google.com/spreadsheets/d/1sUah6u_FEgw35qm7nhImlAmHUlXG5V3zD0vq2hqaI00/edit?usp=sharing"
-        target="_blank"
-        >this spreadsheet</a
-      >
-      . A dedicated page on the site is coming soon.
-    </p>
-    <p>
       If you would like to sponsor the New England Grand Prix, please contact
       Joseph Truelson. Sponsorship can be directed at a specific prize category
       or the entire prize fund.

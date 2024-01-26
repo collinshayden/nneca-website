@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import GrandPrix from '../views/GrandPrix.vue'
+import Standings from '../views/Standings.vue'
 import Team from '../views/Team.vue'
 import Tournaments from '../views/Tournaments.vue'
 import Clubs from '../views/Clubs.vue'
@@ -18,6 +19,12 @@ const routes = [
     name: 'GrandPrix',
     component: GrandPrix,
     props: true,
+  },
+  {
+    path: '/standings',
+    name: 'Standings',
+    component: Standings,
+    props: false,
   },
   {
     path: '/team',

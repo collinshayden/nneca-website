@@ -20,6 +20,10 @@
       </li>
       <li><div class="pipe">|</div></li>
       <li>
+        <router-link :to="{ name: 'Standings' }">GP Standings</router-link>
+      </li>
+      <li><div class="pipe">|</div></li>
+      <li>
         <router-link :to="{ name: 'Team' }">Team Championship</router-link>
       </li>
       <li><div class="pipe">|</div></li>

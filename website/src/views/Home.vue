@@ -3,9 +3,9 @@
     <div class="body">
       <h2>Welcome</h2>
       <p>
-        Welcome to the official website of the Northern New England Chess Association! We
-        are a new organization, founded by Hayden Collins and NM Joseph
-        Truelson, with the aim to grow and support chess activity in New
+        Welcome to the official website of the Northern New England Chess
+        Association! We are a new organization, founded by Hayden Collins and NM
+        Joseph Truelson, with the aim to grow and support chess activity in New
         England. This chess association will also be the governing body over the
         New England Grand Prix and the New England Amateur Team Championship,
         both of which are new events that will be launched in 2024.
@@ -45,10 +45,12 @@
         and commit history can be found on
         <a href="https://github.com/collinshayden/neca-website" target="_blank"
           >GitHub</a
-        >. If you're interested in creating a website of your own, feel free to clone the repository and modify it to fit your needs. If you want any help/advice, you're welcome to email me.
+        >. If you're interested in creating a website of your own, feel free to
+        clone the repository and modify it to fit your needs. If you want any
+        help/advice, you're welcome to email me.
       </p>
       <h2>Contact</h2>
-      <p>
+      <p style="text-indent: 0">
         Hayden Collins - hayden.collins@uvm.edu <br />
         Joesph Truelson - josephtruelson@gmail.com
       </p>
@@ -77,5 +79,6 @@ html {
 }
 p {
   font-size: 1.15em;
+  text-indent: 2em;
 }
 </style>

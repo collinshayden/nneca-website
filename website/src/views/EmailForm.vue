@@ -80,6 +80,7 @@ textarea {
 }
 p {
   font-size: 1.3em;
+  text-indent: 0;
 }
 #submit {
   width: 8%;

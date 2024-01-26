@@ -81,6 +81,10 @@ export default {
   margin: auto;
   text-align: center;
 }
+
+.clubs p {
+  text-indent: 0;
+}
 @media only screen and (max-width: 700px) {
   .clubs {
     width: 85%;

@@ -28,11 +28,11 @@
   </div>
   <h2 class="title">Upcoming Non-Grand Prix Events</h2>
   <div>
-    <Tournament 
-    title="March Chess Madness - March 2"
-    format="4SS G30+0 Grades 1-6 (Scholastic Only), Free Entry, Bennington VT"
-    link="https://www.chessonthehill.com/marchmadness"
-    link_desc="Details here"
+    <Tournament
+      title="March Chess Madness - March 2"
+      format="4SS G30+0 Grades 1-6 (Scholastic Only), Free Entry, Bennington VT"
+      link="https://www.chessonthehill.com/marchmadness"
+      link_desc="Details here"
     />
   </div>
   <div id="footer">
@@ -50,8 +50,11 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .title {
   font-size: 1.6em;
+}
+p {
+  text-indent: 0;
 }
 </style>
