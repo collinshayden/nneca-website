@@ -14,6 +14,12 @@
       link_desc="Details here"
     />
     <Tournament
+      title="1st Burlington Bloom - March 23/24"
+      format="TBD - fill out interest form below!"
+      link="https://forms.gle/L3PfJSfTMfAfJHca6"
+      link_desc="Interest form"
+    />
+    <Tournament
       title="1st Penguin Festival - April 6/7"
       format="5SS 3 rds G60+30 + 2 rds 90+30, Emperor (1600+), Magellanic (U1925), Little Blue (U1325), EF $120/$80/$60, Prizes $4100"
       link="https://new.uschess.org/1st-penguin-festival"
@@ -32,6 +38,12 @@
       title="March Chess Madness - March 2"
       format="4SS G30+0 Grades 1-6 (Scholastic Only), Free Entry, Bennington VT"
       link="https://www.chessonthehill.com/marchmadness"
+      link_desc="Details here"
+    />
+    <Tournament
+      title="2024 Vermont Speed Chess & 960 Championships - March 3"
+      format="960 - 4SS G10+5, Blitz - 7SS G3+2, Bullet 6SS 5 game matches - G1+1"
+      link="https://new.uschess.org/2024-vermont-speed-960-chess-championships"
       link_desc="Details here"
     />
   </div>
