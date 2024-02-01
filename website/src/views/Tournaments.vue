@@ -14,6 +14,12 @@
       link_desc="Details here"
     />
     <Tournament
+      title="1st Warner Open - March 9"
+      format="4SS G/55 d5, Premier (1600+), U1925, U1325, EF $55/$40/$30, Prizes $2000"
+      link="https://new.uschess.org/1st-warner-open"
+      link_desc="Details here"
+    />
+    <Tournament
       title="1st Burlington Bloom - March 23/24"
       format="TBD - fill out interest form below!"
       link="https://forms.gle/L3PfJSfTMfAfJHca6"
