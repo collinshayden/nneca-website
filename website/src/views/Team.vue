@@ -259,15 +259,15 @@
             prize in proportion to 10% of the prize fund.
           </li>
           <li>
-            The top mixed doubles team will recieve a prize in proportion to 10%
+            The top mixed doubles team will receive a prize in proportion to 10%
             of the prize fund.
           </li>
           <li>
-            The highest scoring player on each board number will recieve a prize
+            The highest scoring player on each board number will receive a prize
             in proportion to 5% of the prize fund.
           </li>
           <li>
-            The player who performs the largest individual upset will recieve a
+            The player who performs the largest individual upset will receive a
             prize in proportion to 5% of the prize fund.
           </li>
           <ol type="i">
