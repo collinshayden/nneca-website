@@ -28,7 +28,7 @@
     <Tournament
       title="1st New England Amateur Team Championship - April 13/14"
       format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
-      link="https://newenglandchess.org/team"
+      link="https://new.uschess.org/2024-new-england-amateur-team-championship"
       link_desc="Details here"
     />
     <Tournament

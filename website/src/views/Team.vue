@@ -24,6 +24,8 @@
       <Tournament
         title="1st New England Amateur Team Championship - April 13/14 - Nashua NH"
         format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
+        link="https://new.uschess.org/2024-new-england-amateur-team-championship"
+        link_desc="Details & Registration here!"
       />
     </div>
 
@@ -95,11 +97,7 @@
             reservations should be made).
           </li>
           <li>
-            Late entry will be open until 1 hour before the start of Round 1.
-            Any entries after this time shall be assigned a half-point bye by
-            the Chief TD / Arbiter (e.g., 0.5 match points for the team). Teams
-            registering on-site must have previously provided proof of
-            eligibility and received approval from the eligibility committee.
+            No entries will be accepted after on-site registration closes.
           </li>
         </ol>
       </ol>
@@ -116,7 +114,10 @@
             rating cap. Alternates that are not playing in a given round are not
             included in the rating average.
           </li>
-          <li>Unrated players will be counted as having a rating of 1100.</li>
+          <li>
+            Unrated players will be counted as having a rating of 1100 for the
+            average rating calculations.
+          </li>
         </ol>
         <li>
           At the start of the tournament, teams are ranked-ordered and sequenced
@@ -175,7 +176,9 @@
           <li>Ensure game results and standings are accurate.</li>
           <li>
             Team Captains are not allowed to communicate with players while
-            their games are in progress.
+            their games are in progress. Any form of advice on positions or
+            results, such as recommending to accept a draw offer, is strictly
+            not tolerated.
           </li>
         </ol>
         <li>
@@ -239,7 +242,7 @@
           </li>
           <li>
             To be eligible for prizes, 3/4 of a team's lineup in each round must
-            be residents of New England. Determination of residence will be
+            be residents of New England (CT, ME, MA, NH, RI, or VT). Determination of residence will be
             taken from the US Chess website, unless other information is
             provided to the administrator.
           </li>
@@ -251,8 +254,8 @@
             22.5% of the prize fund.
           </li>
           <li>
-            The second overall team will receive a prize in proportion to 17.5% of
-            the prize fund.
+            The second overall team will receive a prize in proportion to 17.5%
+            of the prize fund.
           </li>
           <li>
             The top team with an average team rating under 1500 will receive a
@@ -295,7 +298,7 @@
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Hayden Collins on 2023/11/24.</p>
+    <p>Rules last updated by Hayden Collins on 2024/2/23.</p>
   </div>
 </template>
 
