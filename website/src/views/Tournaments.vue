@@ -2,12 +2,6 @@
   <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament
-      title="Nashua Grand Prix Tornado - February 17"
-      format="4SS G55d5, Premier (1600+), U2025, U1625, U1225, EF $50/$40/$35/$30, Prizes $2400"
-      link="https://onlineregistration.cc/tournaments/index.php?view=zNTizdLa&tid=m6Ciog=="
-      link_desc="Details here"
-    />
-    <Tournament
       title="1st Warner Open - March 9"
       format="4SS G/55 d5, Premier (1600+), U1925, U1325, EF $55/$40/$30, Prizes $2000"
       link="https://new.uschess.org/1st-warner-open"
