@@ -10,8 +10,8 @@
     <Tournament
       title="1st Burlington Bloom - March 23/24"
       format="TBD - fill out interest form below!"
-      link="https://forms.gle/L3PfJSfTMfAfJHca6"
-      link_desc="Interest form"
+      link="https://new.uschess.org/1st-burlington-bloom"
+      link_desc="Details here"
     />
     <Tournament
       title="1st Penguin Festival - April 6/7"
