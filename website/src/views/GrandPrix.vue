@@ -3,6 +3,15 @@
   <div class="body">
     <h3>Motivation</h3>
     <p>
+      The New England Grand Prix is a series of tournaments in which players
+      accumulate Grand Prix points based on their performance at Grand Prix
+      events. At the end of the calendar year, prizes are awarded based on
+      overall Grand Prix standings to the top two players in each rating class
+      and top two overall. There is no additional cost to the player to
+      participate in the Grand Prix; organizers of GP events contribute $5 for
+      every entry to the GP prize fund.
+    </p>
+    <p>
       The primary goal of the New England Grand Prix is to encourage player to
       participate in more events, reward consistency, and discourage early
       withdrawls from tournaments. We are also hoping that this Grand Prix will
