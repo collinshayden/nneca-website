@@ -133,3 +133,9 @@ img {
   }
 }
 </style>
+
+<style scoped>
+  p {
+    text-indent: 0;
+  }
+</style>
