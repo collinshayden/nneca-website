@@ -25,7 +25,7 @@
         other TD info can be found
         <a href="https://new.uschess.org/tournament-directors" target="_blank"
           >here</a
-        >. We now have a NECA USCF affiliate, so let us know if you would like
+        >. We now have a NNECA USCF affiliate, so let us know if you would like
         to be added as a TD, which will allow you to run rated events. Players
         make up most of the TDs around here, so create whichever events you want
         to play in most! If you want any help or advice about directing events
@@ -43,7 +43,7 @@
       <p>
         This website was created by Hayden Collins using Vue.js. The source code
         and commit history can be found on
-        <a href="https://github.com/collinshayden/neca-website" target="_blank"
+        <a href="https://github.com/collinshayden/nneca-website" target="_blank"
           >GitHub</a
         >. If you're interested in creating a website of your own, feel free to
         clone the repository and modify it to fit your needs. If you want any
