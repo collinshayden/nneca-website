@@ -143,7 +143,7 @@
         </li>
         <ol type="a">
           <li>
-            Two adjacent boards may not have a rating gap of over 500 points.
+            Two adjacent boards may not have a rating gap of over 600 points.
           </li>
         </ol>
         <li>Unrated players must be placed below rated players.</li>
@@ -298,7 +298,7 @@
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Hayden Collins on 2024/2/23.</p>
+    <p>Rules last updated by Hayden Collins on 2024/3/6.</p>
   </div>
 </template>
 
