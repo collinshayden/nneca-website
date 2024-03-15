@@ -42,7 +42,7 @@ export default {
   },
   async created() {
     const response = await axios.get(
-      "https://sheets.googleapis.com/v4/spreadsheets/1sUah6u_FEgw35qm7nhImlAmHUlXG5V3zD0vq2hqaI00/values/Standings!A1:E95",
+      "https://sheets.googleapis.com/v4/spreadsheets/1sUah6u_FEgw35qm7nhImlAmHUlXG5V3zD0vq2hqaI00/values/Standings!A1:E110",
       {
         params: {
           // this is an API key that gives read access to Google Sheets owned by a Google account specifically made for this page.
