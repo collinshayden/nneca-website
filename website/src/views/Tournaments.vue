@@ -3,7 +3,7 @@
   <div>
     <Tournament
       title="1st Burlington Bloom - March 23/24"
-      format="4SS G/90+30, Open, U1500, EF $50/$35, Prizes $500"
+      format="5SS G/55d5, Open, EF $35, Prizes $500"
       link="https://new.uschess.org/1st-burlington-bloom"
       link_desc="Details here"
     />
