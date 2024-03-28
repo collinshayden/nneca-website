@@ -2,12 +2,6 @@
   <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament
-      title="1st Burlington Bloom - March 23/24"
-      format="5SS G/55d5, Open, EF $35, Prizes $500"
-      link="https://new.uschess.org/1st-burlington-bloom"
-      link_desc="Details here"
-    />
-    <Tournament
       title="1st Penguin Festival - April 6/7"
       format="5SS 3 rds G60+30 + 2 rds 90+30, Emperor (1600+), Magellanic (U1925), Little Blue (U1325), EF $120/$80/$60, Prizes $4100"
       link="https://new.uschess.org/1st-penguin-festival"
@@ -25,19 +19,10 @@
       link="https://new.uschess.org/bennington-spring-open-2024"
       link_desc="Details here"
     />
-  </div>
-  <h2 class="title">Upcoming Non-Grand Prix Events</h2>
-  <div>
     <Tournament
-      title="March Chess Madness - March 2"
-      format="4SS G30+0 Grades 1-6 (Scholastic Only), Free Entry, Bennington VT"
-      link="https://www.chessonthehill.com/marchmadness"
-      link_desc="Details here"
-    />
-    <Tournament
-      title="2024 Vermont Speed Chess & 960 Championships - March 3"
-      format="960 - 4SS G10+5, Blitz - 7SS G3+2, Bullet 6SS 5 game matches - G1+1"
-      link="https://new.uschess.org/2024-vermont-speed-960-chess-championships"
+      title="2024 New England Class Championship"
+      format="5SS 3 G60+30 + 2 G90+30, Master-Expert/Class A/B/C/D/E, EF $120/$80 for A-D/$60 for E, Prizes $6500"
+      link="https://new.uschess.org/2024-new-england-class-championship"
       link_desc="Details here"
     />
   </div>
