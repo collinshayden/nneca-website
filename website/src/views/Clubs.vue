@@ -59,12 +59,6 @@
       info="Meets at the Pease Public Library, 1 Russell Street, downstairs, from 6PM to 8PM every Tuesday."
       contact="If you have any questions or concerns please email Doug Grant at dgrant116@gmail.com or call 603-444-6982. "
     />
-    <Club
-      title="Claremont Chess Club"
-      desc="All ages and skill levels are welcome. Come play chess! This is an unstructured club where we just show up and play. We have 7 chess sets and clocks available for use. I do offer informal teaching to beginners. Other than that, most of us normally play 3 or 5 minute blitz so that we have the chance to rotate around and play with several opponents. "
-      info="Claremont Chess Club meets at 6:00-8:30pm Monday nights at Arrowhead Recreation Center located on 18 Robert Easter Way Claremont NH 03743."
-      contact="Contact Chris Soucy via csouce1@gmail.com for more details"
-    />
   </div>
 </template>
 
