@@ -27,12 +27,6 @@ const routes = [
     props: false,
   },
   {
-    path: '/team',
-    name: 'Team',
-    component: Team,
-    props: true,
-  },
-  {
     path: '/tournaments',
     name: 'Tournaments',
     component: Tournaments,
