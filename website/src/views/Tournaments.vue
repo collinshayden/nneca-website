@@ -2,15 +2,9 @@
   <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament
-      title="1st Penguin Festival - April 6/7"
-      format="5SS 3 rds G60+30 + 2 rds 90+30, Emperor (1600+), Magellanic (U1925), Little Blue (U1325), EF $120/$80/$60, Prizes $4100"
-      link="https://new.uschess.org/1st-penguin-festival"
-      link_desc="Details here"
-    />
-    <Tournament
-      title="1st New England Amateur Team Championship - April 13/14"
-      format="4SS G90+30, U1800 (avg), EF $200/team, Prizes $2000"
-      link="https://new.uschess.org/2024-new-england-amateur-team-championship"
+      title="Chess de Mayo - May 5"
+      format="4SS G55d5, Premier(1600+), U1925, U1325, EF $55/40/30, Prizes $2000"
+      link="https://new.uschess.org/chess-de-mayo"
       link_desc="Details here"
     />
     <Tournament
@@ -20,7 +14,7 @@
       link_desc="Details here"
     />
     <Tournament
-      title="2024 New England Class Championship"
+      title="2024 New England Class Championship - June 15/16"
       format="5SS 3 G60+30 + 2 G90+30, Master-Expert/Class A/B/C/D/E, EF $120/$80 for A-D/$60 for E, Prizes $6500"
       link="https://new.uschess.org/2024-new-england-class-championship"
       link_desc="Details here"
