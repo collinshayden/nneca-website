@@ -6,9 +6,8 @@
         Welcome to the official website of the Northern New England Chess
         Association! We are a new organization, founded by Hayden Collins and NM
         Joseph Truelson, with the aim to grow and support chess activity in New
-        England. This chess association will also be the governing body over the
-        New England Grand Prix and the New England Amateur Team Championship,
-        both of which are new events that will be launched in 2024.
+        England. This chess association will be the governing body over the New
+        England Grand Prix, a new series of tournaments starting in 2024.
       </p>
       <p>
         As we are located in Vermont and New Hampshire, our short-term focus
