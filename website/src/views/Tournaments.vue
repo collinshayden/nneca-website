@@ -2,7 +2,7 @@
   <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament 
-      title="1st Burlington Tornado"
+      title="1st Burlington Tornado - April 28"
       format="4SS G55d5, Open/U1700, EF $35, Prizes $1000"
       link="https://new.uschess.org/1st-burlington-tornado"
       link_desc="Details here"
