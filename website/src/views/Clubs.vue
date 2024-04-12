@@ -27,7 +27,8 @@
     <Club
       title="Chittenden County Chess Club"
       desc="Meeting every Saturday morning at the South Burlington Public Library on Market Street in South Burlington  VT, we are a group of chess enthusiasts from all ages and playing abilities. 
-    We warmly welcome all those interested in playing and learning about chess with casual blitz from 10:30 to 11:00 and a G60/+30, USCF rated Swiss tournament game at 11:00. Blitz tournament once a month. 
+    We warmly welcome all those interested in playing and learning about chess with casual blitz from 10:30 to 11:00 and a G60/+30, USCF rated Swiss tournament game at 11:00. 
+    G30d5 quads (3 round round robin, grouped by rating) last Sat of each month. 
     USCF membership is recommended to play a free weekly rated game, but not required. Children under 12 are welcome to compete but must be accompanied by a parent."
       contact="Contact Walter Chesnut via wmc@wmchesnut.com for more details."
     />
