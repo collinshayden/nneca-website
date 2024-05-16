@@ -131,11 +131,11 @@
         <ol type="a">
           <li>
             First place in classes Master, Expert, A, B, C, and D-and-Below will
-            receive 10% of the resultant prize fund for each state.
+            receive 10% of the resultant prize fund.
           </li>
           <li>
             Second place in classes Master, Expert, A, B, C, and D-and-Below
-            will receive 5% of the resultant prize fund for each state.
+            will receive 5% of the resultant prize fund.
           </li>
           <li>
             The player with the highest overall point total will receive 10% of
@@ -241,7 +241,7 @@
         </ol>
       </ol>
     </ol>
-    <p>Rules last updated by Hayden Collins on 2023/12/10.</p>
+    <p>Rules last updated by Hayden Collins on 2024/5/16.</p>
   </div>
 </template>
 
