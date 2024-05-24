@@ -19,6 +19,12 @@
       link="https://new.uschess.org/1st-concord-open"
       link_desc="Details here"
     />
+    <Tournament
+      title="1st Origami Open - October 25-27"
+      format="6SS 4 G60+30, 2 G90+30, 1700+/U1925/U1325, EF $125/90/65, Prizes $5500"
+      link="https://new.uschess.org/1st-origami-open"
+      link_desc="Details here"
+    />
   </div>
   <div id="footer">
     <p>
