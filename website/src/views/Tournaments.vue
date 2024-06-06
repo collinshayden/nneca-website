@@ -14,6 +14,12 @@
       link_desc="Details here"
     />
     <Tournament
+      title="2nd Putney Summer Series - 1x Multiplier - July 7"
+      format="4SS G45+5, Open/U1650, EF $20, Prizes $240"
+      link="https://new.uschess.org/putney-summer-series-2"
+      link_desc="Details here"
+    />
+    <Tournament
       title="Northern New England G55 Championship - 2x Multiplier - August 8"
       format="4SS G55d5, Open, EF FREE to Festival players, $30 otherwise, Prizes $500"
       link="https://new.uschess.org/northern-new-england-chess-festival"
