@@ -2,12 +2,6 @@
   <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament
-      title="2024 New England Class Championship - 4x Multiplier - June 15/16"
-      format="5SS 3 G60+30 + 2 G90+30, Master-Expert/Class A/B/C/D/E, EF $120/$80 for A-D/$60 for E, Prizes $6500"
-      link="https://new.uschess.org/2024-new-england-class-championship"
-      link_desc="Details here"
-    />
-    <Tournament
       title="1st Concord Open - 3x Multiplier - June 29"
       format="4SS G55d5, Premier (1700+)/U1925/U1325, EF $55/$40/$30, Prizes $2000"
       link="https://new.uschess.org/1st-concord-open"
