@@ -1,5 +1,14 @@
 <template>
-  <h2 class="title">Upcoming Grand Prix Events</h2>
+  <div class="body">
+    <h2 class="title">Upcoming Grand Prix Events</h2>
+    <p>
+      This page is dedicated to listing all the upcoming New England Grand Prix
+      events. New events will be added as they are planned, so fear not if the
+      list is getting short! If you would like to direct a Grand Prix event,
+      please reach out! We are hoping to expand the amount of GP events, and
+      need more directors to help!
+    </p>
+  </div>
   <div>
     <Tournament
       title="2nd Putney Summer Series - 1x Multiplier - July 7"
@@ -11,18 +20,6 @@
       title="3rd Putney Summer Series - 1x Multiplier - July 28"
       format="4SS G45+5, Open/U1650, EF $20, Prizes $240"
       link="https://new.uschess.org/putney-summer-series-3"
-      link_desc="Details here"
-    />
-    <Tournament
-      title="Northern New England G55 Championship - 2x Multiplier - August 8"
-      format="4SS G55d5, Open, EF FREE to Festival players, $30 otherwise, Prizes $500"
-      link="https://new.uschess.org/northern-new-england-chess-festival"
-      link_desc="Details here"
-    />
-    <Tournament
-      title="Northern New England Chess Festival - 4x Multiplier - August 9/10/11"
-      format="6SS G90+30, Premier (1800+)/U2025/U1425, EF $150/$100/$80, Prizes $6000"
-      link="https://new.uschess.org/northern-new-england-chess-festival"
       link_desc="Details here"
     />
     <Tournament

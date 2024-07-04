@@ -70,11 +70,12 @@ input {
   width: 20%;
   padding: 0.6em;
   border-radius: 7px;
+  height: 1.5em;
   border: 2px solid gray;
 }
 textarea {
   width: 40%;
-  height: 3em;
+  height: 2.5em;
   border-radius: 7px;
   border: 2px solid gray;
 }

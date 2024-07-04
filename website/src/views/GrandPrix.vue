@@ -1,6 +1,6 @@
 <template>
-  <h2>New England Grand Prix</h2>
   <div class="body">
+    <h2>New England Grand Prix</h2>
     <h3>Motivation</h3>
     <p>
       The New England Grand Prix is a series of tournaments in which players
@@ -252,11 +252,11 @@ export default {
 };
 </script>
 
-<style>
-.events {
-  margin: auto;
-  text-align: center;
+<style scoped>
+li {
+  text-align: left;
 }
+
 @media only screen and (max-width: 700px) {
   .body {
     width: 90%;

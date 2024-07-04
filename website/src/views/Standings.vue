@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="body">
     <h2>2024 New England Grand Prix Standings</h2>
     <p>
       This page is dedicated to display the live standings of the current 2024
@@ -61,6 +61,7 @@ export default {
 <style scoped>
 .table-container {
   width: 100%;
+  padding-top: 3em;
 }
 
 .table-container table {
@@ -81,7 +82,7 @@ export default {
   font-weight: bold;
 }
 
-p {
+/* p {
   width: 60%;
   padding: 10px;
   padding-bottom: 1.8em;
@@ -89,24 +90,30 @@ p {
   text-align: left;
   font-size: 1.3em;
   text-indent: 2em;
-}
+} */
 
 @media (max-width: 600px) {
-  p {
-    width: 75%;
-  }
   .table-container td {
     padding: 5px;
   }
 }
 
-@media (max-width: 400px) {
-  p {
-    width: 80%;
+@media (max-width: 515px) {
+  .table-container td{
+    padding: 3px;
+    font-size: 0.9em;
   }
-  .table-container td {
-    padding: 2px;
+}
+
+@media (max-width: 450px) {
+  .table-container {
     font-size: 0.8em;
   }
 }
+
+@media (max-width: 400) {
+    .table-container {
+      font-size: 0.3em;
+    }
+  }
 </style>

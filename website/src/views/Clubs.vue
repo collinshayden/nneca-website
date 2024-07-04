@@ -1,6 +1,6 @@
 <template>
-  <h2 class="title">Local Clubs in Northern New England</h2>
   <div class="body">
+  <h2 class="title">Local Clubs in Northern New England</h2>
     <p>
       This page is dedicated for chess clubs that are located within New
       England. Attending your local club is a great way to get involved with
@@ -15,8 +15,8 @@
     </p>
   </div>
 
-  <div class="clubs">
-    <h2>Vermont</h2>
+  <div class="state-section">
+    <h2 class="state-header">Vermont</h2>
     <Club
       title="University of Vermont Chess Club"
       desc="The UVM Chess Club is student led organization dedicated to playing, studying, and teaching chess. 
@@ -47,7 +47,9 @@
       desc="Casual play every Thursday 5:30-7:30pm at the Putney Co-op. Club meetings resume November 16th. All ages & levels welcome."
       contact="Contact Dan Foster via fosterbalance@gmail.com for more details."
     />
-    <h2>New Hampshire</h2>
+  </div>
+  <div class="state-section">
+    <h2 class="state-header">New Hampshire</h2>
     <Club
       title="Weare Woodpushers"
       desc="Rated club SS tournament play on Wednesday evenings (typically one round per week) for Weare and surrounding areas (Concord, Dunbarton, Henniker, Hopkinton, Goffstown, Hillsboro, etc.)"
@@ -71,20 +73,36 @@ export default {
 };
 </script>
 
-<style>
-.title {
-  font-size: 1.6em;
-}
-.clubs {
-  width: 70%;
-  font-size: large;
-  padding: 10px;
-  margin: auto;
-  text-align: center;
+<style scoped>
+.state-section {
+  margin-bottom: 40px;
 }
 
-.clubs p {
-  text-indent: 0;
+.state-header {
+  font-size: 1.8em;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.club {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.club h3 {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+
+.club p {
+  margin-bottom: 10px;
 }
 @media only screen and (max-width: 700px) {
   .clubs {
