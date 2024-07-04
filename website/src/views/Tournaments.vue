@@ -56,5 +56,6 @@ export default {
 }
 p {
   text-indent: 0;
+  text-align: center;
 }
 </style>

@@ -37,3 +37,9 @@ a:hover {
   color: #0056b3;
 }
 </style>
+
+<style scoped>
+p {
+  text-align: center;
+}
+</style>

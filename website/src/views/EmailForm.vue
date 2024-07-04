@@ -82,6 +82,7 @@ textarea {
 p {
   font-size: 1.3em;
   text-indent: 0;
+  text-align: center;
 }
 #submit {
   width: 8%;

@@ -13,8 +13,11 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .details {
   padding-bottom: 1em;
+}
+p {
+  text-align: center;
 }
 </style>

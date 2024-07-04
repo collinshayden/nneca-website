@@ -49,7 +49,7 @@
       help/advice, you're welcome to email me.
     </p>
     <h2>Contact</h2>
-    <p style="text-indent: 0">
+    <p class = "contact" style="text-indent: 0">
       Hayden Collins - hayden.collins@uvm.edu <br />
       Joesph Truelson - josephtruelson@gmail.com
     </p>
@@ -93,6 +93,10 @@ h2 {
 p {
   font-size: 1em;
   text-indent: 1em;
+  text-align: left;
+}
+.contact {
+  text-align: center;
 }
 
 a {
