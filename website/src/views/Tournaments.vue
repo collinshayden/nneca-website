@@ -2,12 +2,6 @@
   <h2 class="title">Upcoming Grand Prix Events</h2>
   <div>
     <Tournament
-      title="1st Concord Open - 3x Multiplier - June 29"
-      format="4SS G55d5, Premier (1700+)/U1925/U1325, EF $55/$40/$30, Prizes $2000"
-      link="https://new.uschess.org/1st-concord-open"
-      link_desc="Details here"
-    />
-    <Tournament
       title="2nd Putney Summer Series - 1x Multiplier - July 7"
       format="4SS G45+5, Open/U1650, EF $20, Prizes $240"
       link="https://new.uschess.org/putney-summer-series-2"
