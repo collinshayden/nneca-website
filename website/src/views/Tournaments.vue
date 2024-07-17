@@ -11,15 +11,15 @@
   </div>
   <div>
     <Tournament
-      title="2nd Putney Summer Series - 1x Multiplier - July 7"
-      format="4SS G45+5, Open/U1650, EF $20, Prizes $240"
-      link="https://new.uschess.org/putney-summer-series-2"
-      link_desc="Details here"
-    />
-    <Tournament
       title="3rd Putney Summer Series - 1x Multiplier - July 28"
       format="4SS G45+5, Open/U1650, EF $20, Prizes $240"
       link="https://new.uschess.org/putney-summer-series-3"
+      link_desc="Details here"
+    />
+    <Tournament
+      title="1st Putney Tornado - 2x Multiplier - August 11"
+      format="4SS G55d5, Open/U1700, EF $35, Prizes $500"
+      link="https://new.uschess.org/1st-putney-tornado"
       link_desc="Details here"
     />
     <Tournament
@@ -32,6 +32,12 @@
       title="1st Origami Open - 4x Multiplier - October 25-27"
       format="6SS 4 G60+30, 2 G90+30, 1700+/U1925/U1325, EF $125/90/65, Prizes $5500"
       link="https://new.uschess.org/1st-origami-open"
+      link_desc="Details here"
+    />
+    <Tournament
+      title="2024 Vermont Open - 3x Multiplier - November 15-17"
+      format="5SS 40/90 SD/30 +30, Championship (1700+)/U1825/U1425, EF $55, Prizes $2000"
+      link="https://new.uschess.org/vermont-open"
       link_desc="Details here"
     />
   </div>
