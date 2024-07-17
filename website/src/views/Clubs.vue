@@ -21,7 +21,7 @@
       title="University of Vermont Chess Club"
       desc="The UVM Chess Club is student led organization dedicated to playing, studying, and teaching chess. 
       We provide a relaxed space in which chess enthusiasts of all levels are welcome to come and enjoy the beautiful sport of chess."
-      info="We are located on the UVM campus in Burlington VT, and meet twice a week on Monday/Friday 5-7 in Marsh Life Science 129."
+      info="We are located on the UVM campus in Burlington VT, and our Thursday 6-8 meeting is open to the public in Marsh Life Science 129."
       contact="Contact Hayden Collins via hayden.collins@uvm.edu for more details."
     />
     <Club
@@ -34,8 +34,8 @@
     />
     <Club
       title="Stowe Chess Club"
-      desc="Casual play every Thursday 6:30-8pm at MC’s Penalty Box Sports Bar, 823 S Main St, Stowe VT."
-      contact="Contact Peter Schmeeckle via oldcastlerecords@yahoo.com for more details. Location is temporary, check with Peter about current venue."
+      desc="Casual play at the Stowe Free Library Tuesdays 5:30-7, all ages welcome. Kids group on Tuesdays 3:30-5 when school is in session."
+      contact="Contact Peter Schmeeckle via oldcastlerecords@yahoo.com for more details."
     />
     <Club
       title="Bennington Area Chess Club"
@@ -44,7 +44,7 @@
     />
     <Club
       title="Putney Chess Club"
-      desc="Casual play every Thursday 5:30-7:30pm at the Putney Co-op. Club meetings resume November 16th. All ages & levels welcome."
+      desc="Casual play every Thursday 5:30-7:30pm at the Putney Co-op. All ages & levels welcome."
       contact="Contact Dan Foster via fosterbalance@gmail.com for more details."
     />
   </div>
