@@ -18,12 +18,6 @@
   </div>
   <div>
     <Tournament
-      title="3rd Putney Summer Series - 1x Multiplier - July 28"
-      format="4SS G45+5, Open/U1650, EF $20, Prizes $240"
-      link="https://new.uschess.org/putney-summer-series-3"
-      link_desc="Details here"
-    />
-    <Tournament
       title="1st Putney Tornado - 2x Multiplier - August 11"
       format="4SS G55d5, Open/U1700, EF $35, Prizes $500"
       link="https://new.uschess.org/1st-putney-tornado"
