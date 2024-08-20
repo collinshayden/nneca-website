@@ -18,12 +18,6 @@
   </div>
   <div>
     <Tournament
-      title="1st Putney Tornado - 2x Multiplier - August 11"
-      format="4SS G55d5, Open/U1700, EF $35, Prizes $500"
-      link="https://new.uschess.org/1st-putney-tornado"
-      link_desc="Details here"
-    />
-    <Tournament
       title="1st Autumn Classic - 2x Multiplier - September 28/29"
       format="4SS G90+30, Open/U1700, EF $45/$30, Prizes $500"
       link="https://new.uschess.org/1st-autumn-classic"
