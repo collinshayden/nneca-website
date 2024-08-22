@@ -2,13 +2,14 @@
   <div class="details">
     <h3>{{ title }}</h3>
     <p>{{ format }}</p>
+    <p>{{ extra }}</p>
     <a :href="link" target="_blank">{{ link_desc }}</a>
   </div>
 </template>
 
 <script>
 export default {
-  props: ["title", "format", "link", "link_desc"],
+  props: ["title", "format", "extra", "link", "link_desc"],
 };
 </script>
 

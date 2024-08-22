@@ -25,7 +25,8 @@
     />
     <Tournament
       title="Bennington Fall Open - 2x Multiplier - October 5"
-      format="4SS G60+5, Open/U1750/U1350, EF $30, Prizes $780"
+      format="4SS G60+5, Open/U1750/U1350, EF $30, Prizes $780."
+      extra="Friday night - Puzzle (5-6pm) & Blitz (6-7pm) side events, scholastic tournament on Sunday."
       link="https://new.uschess.org/bennington-fall-open"
       link_desc="Details here"
     />
