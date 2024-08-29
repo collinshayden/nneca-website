@@ -18,9 +18,9 @@
   </div>
   <div>
     <Tournament
-      title="1st Autumn Classic - 2x Multiplier - September 28/29"
-      format="4SS G90+30, Open/U1700, EF $45/$30, Prizes $500"
-      link="https://new.uschess.org/1st-autumn-classic"
+      title="UVM Autumn Classic - 2x Multiplier - September 28/29"
+      format="4SS G90+30, Open/U1700, EF $40/$30, Prizes $500"
+      link="https://new.uschess.org/uvm-autumn-classic"
       link_desc="Details here"
     />
     <Tournament
