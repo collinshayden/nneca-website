@@ -18,19 +18,6 @@
   </div>
   <div>
     <Tournament
-      title="UVM Autumn Classic - 2x Multiplier - September 28/29"
-      format="4SS G90+30, Open/U1700, EF $40/$30, Prizes $500"
-      link="https://new.uschess.org/uvm-autumn-classic"
-      link_desc="Details here"
-    />
-    <Tournament
-      title="Bennington Fall Open - 2x Multiplier - October 5"
-      format="4SS G60+5, Open/U1750/U1350, EF $30, Prizes $780."
-      extra="Friday night - Puzzle (5-6pm) & Blitz (6-7pm) side events, scholastic tournament on Sunday."
-      link="https://new.uschess.org/bennington-fall-open"
-      link_desc="Details here"
-    />
-    <Tournament
       title="1st Origami Open - 4x Multiplier - October 25-27"
       format="6SS 4 G60+30, 2 G90+30, 1700+/U1925/U1325, EF $125/90/65, Prizes $5500"
       link="https://new.uschess.org/1st-origami-open"
