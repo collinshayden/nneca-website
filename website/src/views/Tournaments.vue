@@ -8,13 +8,6 @@
       please reach out! We are hoping to expand the amount of GP events, and
       need more directors to help!
     </p>
-    <p>
-      Note: The New England Chess Festival that was planned for mid-August at
-      Magdalen College has unfortunately been cancelled. The venue backed out
-      because the campus is being sold and they didn't want liability issues.
-      Total bummer, and we apologize for those of you who were excited to play.
-      Checkout the 1st Origami Open for our next major GP event!
-    </p>
   </div>
   <div>
     <Tournament
