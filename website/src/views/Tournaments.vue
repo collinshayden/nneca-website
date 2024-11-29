@@ -1,6 +1,6 @@
 <template>
   <div class="body">
-    <h2 class="title">Upcoming Grand Prix Events</h2>
+    <h2 class="title">Upcoming Events</h2>
     <p>
       This page is dedicated to listing all the upcoming New England Grand Prix
       events. New events will be added as they are planned, so fear not if the
@@ -11,9 +11,9 @@
   </div>
   <div>
     <Tournament
-      title="2024 Vermont Open - 3x Multiplier - November 15-17"
-      format="5SS 40/90 SD/30 +30, Championship (1700+)/U1825/U1425, EF $55, Prizes $2000"
-      link="https://new.uschess.org/vermont-open"
+      title="1st Pickle Open - December 7 (Non-GP)"
+      format="4SS G21+19, Free Entry, Prizes: PICKLES"
+      link="https://new.uschess.org/1st-pickle-open-0"
       link_desc="Details here"
     />
   </div>
