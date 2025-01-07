@@ -11,9 +11,9 @@
   </div>
   <div>
     <Tournament
-      title="1st Pickle Open - December 7 (Non-GP)"
-      format="4SS G21+19, Free Entry, Prizes: PICKLES"
-      link="https://new.uschess.org/1st-pickle-open-0"
+      title="UVM Candy Cane Classic - January 25/26 (Non-GP)"
+      format="4SS G90+30, Open/U1700, EF $45/$35, Prizes: $500"
+      link="https://new.uschess.org/uvm-candy-cane-classic"
       link_desc="Details here"
     />
   </div>
